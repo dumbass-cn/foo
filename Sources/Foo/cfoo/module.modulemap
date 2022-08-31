@@ -1,0 +1,5 @@
+
+module mobile {
+    header "mobile.h"
+    export *
+}
